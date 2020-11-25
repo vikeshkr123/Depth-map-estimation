@@ -1,7 +1,6 @@
 # Depth Estimation by Convolutional Neural Networks
 
-This is a repository for my master's thesis - Depth estimation by CNNs. You can read the whole thesis 
-<a href="http://www.fit.vutbr.cz/study/DP/DP.php?id=18852&file=t"> here</a>. Here I briefly present the solution and results. 
+This is a repository for Depth estimation by CNNs. You can read the whole thesis 
 
 ## Architecture:
 
